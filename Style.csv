@@ -1,0 +1,16 @@
+DressOrPants,Headband,JewelryOrAccessories,Style
+0,0,0,Classic
+0,0,0,Classic
+1,1,0,Classic
+0,1,1,Modren
+1,0,1,Modren
+0,0,0,Modren
+0,1,0,Modren
+0,0,0,Classic
+0,1,1,Classic
+1,1,1,Modren
+0,1,0,Classic
+1,1,0,Modren
+1,0,1,Modren
+1,0,0,Modren
+0,1,0,Classic
